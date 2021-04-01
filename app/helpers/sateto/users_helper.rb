@@ -1,0 +1,2 @@
+module Sateto::UsersHelper
+end
